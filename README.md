@@ -20,3 +20,8 @@ The Udacity training was initaited as part of my individal development plan and 
 
 Two colleagues were very supportive in this project: credits to Andrew for introducing me to Python and Mohammed for being my 'help line' when stuck.
 
+Software
+In this project the following softare were used: 
+Notepad to read .md files 
+Excell to read .csv files 
+Jupyter to develop .ipynb file
