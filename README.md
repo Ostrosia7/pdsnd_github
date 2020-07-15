@@ -18,4 +18,5 @@ washington.csv
 ### Credits
 The Udacity training was initaited as part of my individal development plan and was supported by Sean, who challanged me to learn new programming language.
 
+Two colleagues were very supportive in this project: credits to Andrew for introducing me to Python and Mohammed for being my 'help line' when stuck.
 
